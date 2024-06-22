@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Nancy Wambui 😜 #geek
 I am a web designer and a front end enthusiast. I am passionate about tech, I have the drive to learn build and collaborate on projects that change, and/or affect our community in  a positive way. Looking forward to learning more about tech being that I have been in tech for six months. Looking foward to learn more, build more and collabrate with anyone willing to build.
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 - 🔭 I’m currently working on gaining more skills to become a full stack web developer.
 - 🌱 I’m currently learning HMTL, CSS, JAVASCRIPT, PYTHON and REACT.
 - 👯 I’m looking to collaborate on dynamic and big projects to help me perfect my skills.
@@ -23,5 +23,3 @@ I am a web designer and a front end enthusiast. I am passionate about tech, I ha
 
 ---
 [![](https://visitcount.itsvg.in/api?id=missynancy&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
